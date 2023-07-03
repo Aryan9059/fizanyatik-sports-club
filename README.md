@@ -1,4 +1,3 @@
-# fizanyatik-sports-club
+# Fizanyatik Sports Club [DEPRECATED]
 
-<b>[DEPRECATED]</b><br>
 The official Android Application for the Fizanyatik Sports Club.
